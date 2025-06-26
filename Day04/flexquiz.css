@@ -1,0 +1,32 @@
+.box {
+  display: flex;
+  flex-direction: row;
+}
+.minibox {
+  width: 100px;
+  height: 100px;
+}
+.color1 {
+  background-color: #fbc531;
+}
+.color2 {
+  background-color: #e1b12c;
+}
+.color3 {
+  background-color: #7f8fa6;
+}
+.color4 {
+  background-color: #718093;
+}
+.color5 {
+  background-color: #4cd137;
+}
+.color6 {
+  background-color: #44bd32;
+}
+.color7 {
+  background-color: #273c75;
+}
+.color8 {
+  background-color: #192a56;
+}
