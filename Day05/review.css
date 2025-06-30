@@ -1,0 +1,23 @@
+.card {
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  background-color: black;
+}
+.photo {
+  width: 200px;
+  height: 300px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+.info {
+  padding: 20px 10px 20px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}
