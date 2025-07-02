@@ -1,0 +1,14 @@
+button {
+  background-color: transparent;
+  color: orange;
+  border: 1px solid orange;
+  border-radius: 4px;
+  padding: 4px 20px 6px 20px;
+  transition: all 0.3s;
+}
+button:hover {
+  background-color: orange;
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
